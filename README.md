@@ -16,7 +16,7 @@ The repository contains the following items:
     - phaseStress_classifier is a MATLAB script used to train and validate the classifiers of the proposed architecture.
     - testStressClassifier is a MATLAB script that allows to test the proposed architecture.
     - getFeatures_fixed is a MATLAB function used to extract the recorded head movement data from the .txt files related to the users performing the Stroop Color Word         test.
-    - getFeatures_fixed is a MATLAB function used to extract the recorded head movement data from the .txt files related to the users performing the Mental Arithmetic         test.
+    - getFeatures_MA is a MATLAB function used to extract the recorded head movement data from the .txt files related to the users performing the Mental Arithmetic         test.
     - hypothesis_check is a MATLAB function used to verify the hypothesis required by the ANOVA tests for the selected head movement features.
 
       
