@@ -1,0 +1,15 @@
+Please, follow this instructions before running the scripts:
+
+1) After downloading and unzipping the repository, unzip the dataset folder "Head Movement Dataset" and place it in the same folder as the other scripts.
+
+2) To run MATLAB scripts, the following toolboxes must be installed:
+	- Signal processing Toolbox
+	- Statistics and Machine Learning Toolbox
+
+3) stats_ANOVA.m, phaseStress_Classifier.m, testStressClassifier, and nasa_results.m make use of the functions getFeatures_fixed.m, getFeatures_MA.m, and hypothesis_check.m and of the MATLAB data trained_models_unw.mat. Please, make sure that these are in the same folder as the scripts before running them.
+
+After these steps, these scripts can be run without further requirements.
+
+4) Install python???
+
+5) stats_WelchANOVA.py uses the data in the folder Stats-Stroop STFT. Please make sure that Stats-Stroop STFT is in the same folder as the script before running it. 

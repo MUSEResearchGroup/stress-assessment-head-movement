@@ -1,0 +1,8 @@
+Title: Stress Assessment for Augmented Reality Applications based on Head Movement Features
+
+Authors: Anna Ferrarotti*, Sara Baldoni**, Marco Carli*, and Federica Battisti**
+
+*Department of Industrial, Electronic, and Mechanical Engineering, Roma Tre University, Rome, Italy
+**Department of Information Engineering, University of Padova, Padova, Italy 
+
+Operating System: Windows
