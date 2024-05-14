@@ -9,15 +9,12 @@ A. Ferrarotti, S. Baldoni, M. Carli and F. Battisti, "Stress Assessment for Augm
 ## Repository structure
 The repository contains the following items:
 
-- **Codes**:
-    - stats_ANOVA is a MATLAB code containing all the ANOVA tests performed. In addition, it allows to generate Figure 6(a) of the paper.
-    - stats_WelchANOVA is a Python code containing the Welch's ANOVA tests performed of the STFT coefficients of the analyzed features.
-    - nasa_results is a MATLAB code that allows to replicate the t-test performed to evaluate whether the NASA-TLX results of the Stroop Color Word Test and the Mental        Arithmetic test are statistically different.
-    - phaseStress_classifier is a MATLAB code used to train and validate the classifiers of the proposed architecture.
-    - testStressClassifier is a MATLAB code that allows to test the proposed architecture.
-
-
-- **Functions**
+- **Scripts**:
+    - stats_ANOVA is a MATLAB script containing all the ANOVA tests performed. In addition, it allows to generate Figure 6(a) of the paper.
+    - stats_WelchANOVA is a Python script containing the Welch's ANOVA tests performed of the STFT coefficients of the analyzed features.
+    - nasa_results is a MATLAB script that allows to replicate the t-test performed to evaluate whether the NASA-TLX results of the Stroop Color Word Test and the Mental        Arithmetic test are statistically different. It allows also to generate Figure 8 of the paper.
+    - phaseStress_classifier is a MATLAB script used to train and validate the classifiers of the proposed architecture.
+    - testStressClassifier is a MATLAB script that allows to test the proposed architecture.
     - getFeatures_fixed is a MATLAB function used to extract the recorded head movement data from the .txt files related to the users performing the Stroop Color Word         test.
     - getFeatures_fixed is a MATLAB function used to extract the recorded head movement data from the .txt files related to the users performing the Mental Arithmetic         test.
     - hypothesis_check is a MATLAB function used to verify the hypothesis required by the ANOVA tests for the selected head movement features.
