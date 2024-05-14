@@ -1,5 +1,6 @@
 # Stress Assessment for Augmented Reality Applications based on Head Movement Features
 
+![alt text](https://github.com/MUSEResearchGroup/stress-assessment-head-movement/blob/main/image.jpg?raw=true)
 
 In the repository, you can find the codes related to the paper: 
 
