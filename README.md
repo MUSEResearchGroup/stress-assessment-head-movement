@@ -1,7 +1,7 @@
 # Stress Assessment for Augmented Reality Applications based on Head Movement Features
 
 
-In the repository, you can find the codes pertinent to the paper: 
+In the repository, you can find the codes related to the paper: 
 
 
 A. Ferrarotti, S. Baldoni, M. Carli and F. Battisti, "Stress Assessment for Augmented Reality Applications Based on Head Movement Features," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2024.3385637.
