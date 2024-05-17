@@ -26,7 +26,7 @@ The repository contains the following items:
     
 - **Folders:**
   - **file_paths** contains all the file paths pertinent to the recorded head movement data.
-  - **Head Movements Dataset.zip** contains the complete dataset acquired for the study. Further details on its structure are given in the next section. **Plese make         sure to unzip the folder and place it in the same folder as the other codes to run them.**
+  - **Head Movements Dataset.zip** contains the complete dataset acquired for the study. Further details on its structure are given in the next section. **Plese make         sure to unzip the folder and place it in the same folder as the other scripts to run them.**
   - **Stats-Stroop STFT** contains the STFT coefficients of the analyzed features that are used for statistical analysis in the code stats_WelchANOVA.py.
  
 ## Dataset
