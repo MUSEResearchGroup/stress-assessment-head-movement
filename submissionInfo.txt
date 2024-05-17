@@ -5,4 +5,4 @@ Authors: Anna Ferrarotti*, Sara Baldoni**, Marco Carli*, and Federica Battisti**
 *Department of Industrial, Electronic, and Mechanical Engineering, Roma Tre University, Rome, Italy
 **Department of Information Engineering, University of Padova, Padova, Italy 
 
-Operating System: Windows
+Operating System: any
